@@ -33,7 +33,7 @@ async def start(bot, m: Message):
     )
     await bot.send_photo(
         chat_id=m.chat.id,
-        photo="https://envs.sh/GVI.jpg",
+        photo="https://ibb.co/4Zf1Gh59",
         caption=caption
     )
     
